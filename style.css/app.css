@@ -1,0 +1,18 @@
+body {
+  background-color: #f8e8a6;
+  text-align: center;
+}
+
+a {
+  color: green;
+  margin-right: 15px;
+}
+
+.photo-link {
+  margin-top: 20px;
+}
+
+.mail-link {
+  margin-right: 0;
+  color: blue;
+}
